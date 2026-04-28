@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 
+    <script src"jquerry.css"></script>
+    <script>
+      $(document).ready(function(){
+            alert("funcionou");
+        });
+
+    </script>
+</head>
+<body>
+    <fieldset>
+    <legend>meus arquivos . eloa vitoria de almeida dubena
+    <ul>
+     <li><a href="cadastro.hmtl">cadastro do firebase</a></li>
+   </ul>
+</fielset>
+</body>
+</html>
